@@ -1,2 +1,3 @@
 # todos
-react basic app
+react basic app 
+npm start ---> to start the application.
